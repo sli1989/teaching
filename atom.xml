@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Alex LEE&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://teaching.saili.science/"/>
+  <updated>2019-08-16T10:16:20.000Z</updated>
+  <id>http://teaching.saili.science/</id>
+  
+  <author>
+    <name>Alex LEE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人工智能导论</title>
+    <link href="http://teaching.saili.science/posts/AI/"/>
+    <id>http://teaching.saili.science/posts/AI/</id>
+    <published>2019-08-16T10:05:07.000Z</published>
+    <updated>2019-08-16T10:16:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">《人工智能导论》课程教案</blockquote><p>总学时数：4学时（2次课）/周*8周=32个学时（16次课）。（十一放假冲掉2次课，14次课。）</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote class=&quot;blockquote-center&quot;&gt;《人工智能导论》课程教案&lt;/blockquote&gt;
+&lt;p&gt;总学时数：4学时（2次课）/周*8周=32个学时（16次课）。（十一放假冲掉2次课，14次课。）&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+      <category term="教学" scheme="http://teaching.saili.science/categories/%E6%95%99%E5%AD%A6/"/>
+    
+    
+      <category term="教学" scheme="http://teaching.saili.science/tags/%E6%95%99%E5%AD%A6/"/>
+    
+      <category term="人工智能" scheme="http://teaching.saili.science/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
+  
+</feed>
